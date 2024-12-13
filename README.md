@@ -1,6 +1,6 @@
 ## Hi, I'm Manal! 
 
-I am a first year Computer Science major at the University of San Francisco.
+I’m a first-year Computer Science major at the University of San Francisco, where I’m exploring technology with a focus on creativity, problem-solving, and impactful projects.
 <!--
 **manalfaisal/manalfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
