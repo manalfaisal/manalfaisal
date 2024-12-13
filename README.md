@@ -1,6 +1,10 @@
 ## Hi, I'm Manal! 
 
-I’m a first-year Computer Science major at the University of San Francisco, where I’m exploring technology with a focus on creativity, problem-solving, and impactful projects.
+As a Computer Science major at the University of San Francisco, I’m passionate about exploring technology through creativity, problem-solving, and impactful projects. As a Black Scholar at USF, I’m part of a community dedicated to academic excellence and social justice, which fuels my drive to contribute meaningfully to both my field and community.  
+
+With my background and experiences, I’ve developed a diverse skill set in areas like coding, team collaboration, and project design. I enjoy working with people and bringing ideas to life through both technical and creative solutions. Outside of my studies, I value mentoring, community involvement, and the opportunity to connect with others in ways that are impactful and meaningful.  
+
+I’m excited about exploring new opportunities to apply my skills, grow, and collaborate with like-minded individuals passionate about using technology to make a difference.  
 <!--
 **manalfaisal/manalfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
