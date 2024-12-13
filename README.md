@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi, I'm Manal! 
 
 <!--
 **manalfaisal/manalfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am a first year Computer Science major at the University of San Francisco.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
